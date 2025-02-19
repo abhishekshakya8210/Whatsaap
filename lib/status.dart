@@ -56,7 +56,7 @@ class _StatusState extends State<Status> {
           40,fontStyle: FontStyle.italic,fontWeight: FontWeight.w800,color: Colors.blue),),
 
      
-          
+          Text('abhishik',style: TextStyle(fontSize: 30, color: Colors.red),)
         ],
       ),
     );
